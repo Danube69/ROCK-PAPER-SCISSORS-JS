@@ -1,0 +1,23 @@
+[33mcommit 34de4c1dca52d65325802ddd536bf834621dfb10[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: Ryan <rdvmoore12@gmail.com>
+Date:   Sun Jan 29 01:17:02 2023 -0500
+
+    beta ui will fix in future soon!!!
+
+[33mcommit 1e1f4de180415b6277c657a1258ffeb084ab7549[m[33m ([m[1;31morigin/rps-ui[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ryan <rdvmoore12@gmail.com>
+Date:   Sat Nov 19 23:52:26 2022 -0500
+
+    Fully functional rock paper scissors in console.
+
+[33mcommit f4279807eee1fd7bbb387e07d14e1f57a39d5149[m
+Author: Ryan <rdvmoore12@gmail.com>
+Date:   Fri Nov 11 13:03:56 2022 -0500
+
+    step two script tag done, now we create function!
+
+[33mcommit 2ab8a18d76f467338a53ccc4ab1677c390694637[m
+Author: Danube69 <61420221+Danube69@users.noreply.github.com>
+Date:   Fri Nov 11 12:46:00 2022 -0500
+
+    Initial commit
